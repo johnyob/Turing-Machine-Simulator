@@ -14,7 +14,7 @@ setuptools.setup(
     name="turing-machine",
     version="0.0.1",
     author="Alistair O'Brien",
-    author_email="alistair.o'brien@ellesmere.com",
+    author_email="alistair@duneroot.co.uk",
     description="A simple Python Turing machine simulator with an \"infinite\" tape",
     long_description=long_description,
     include_package_data=True,
