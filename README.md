@@ -240,7 +240,7 @@ To ensure the Turing machine executes correctly, the described list / set of tra
 Furthermore the syntax for `transition_functions` will be checked upon instantiation.
 
 ## Errors
-If you discover an error within this package, please email [me](mailto:alistair.o'brien@ellesmere.com).
+If you discover an error within this package, please email [me](mailto:alistair@duneroot.co.uk).
 
 ## Credits
 - [Alistair O'Brien](https://github.com/johnyob)
